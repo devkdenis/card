@@ -1,4 +1,4 @@
-# Personal Card Website
+# Contact Card
 
 Simple card/website with contact info and links.
 
